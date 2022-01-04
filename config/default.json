@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "Adam-Bers MERN+",
+    "mongoUri": "mongodb+srv://adam01:adam01@cluster0.pyc79.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
